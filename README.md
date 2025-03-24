@@ -1,6 +1,6 @@
 🍕 Advanced Pizza Ordering System
 
-🚀 About
+🚀 About:
 
 Welcome to the Pizza Ordering System! This project is made using python which lets user order delicious pizzas with a smooth and interactive experience. Choose your favorite flavor, size, and extra cheese option, and get your order details instantly!
 
