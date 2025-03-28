@@ -18,6 +18,6 @@ Welcome to the Pizza Ordering System! This project is made using python which le
 
 💡 Feel free to fork the repository, suggest features, or fix bugs.
 
-If you love this project, Give it a ⭐.
+If you love this project, give it a ⭐.
 
 Enjoy your delicious pizza experience! 🍕🔥
